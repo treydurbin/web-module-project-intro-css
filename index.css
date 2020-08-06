@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap");
+
+.containerarea div {
+  border-radius: 10%;
+  text-align: center;
+  width: 6%;
+  font-size: 100%;
+  margin: 5% 10%;
+  padding: 0 1%;
+  display: inline-block;
+
+}
+h1 {
+  text-align: left;
+  font-family: "Chelsea Market", cursive;
+  font-size: 300%;
+  width: 200%;
+  margin: auto;
+}
+a {
+  color: white;
+}
+.headimg {
+  width: 30%;
+  border-radius: 50%;
+  margin: 4%;
+  display: inline-block;
+}
+.headimg .skills {
+  margin-left: -40%;
+  text-align: center;
+  width: 20%;
+}
+
+.tanmain {
+  text-align: center;
+  background-color: #ddb9a3;
+  color: White;
+  padding: 8%;
+  margin: 8%;
+}
+
+.middlearea img {
+  width: 12%;
+  height: 12%;
+}
+.middlearea {
+  text-align: center;
+}
+.middlearea p {
+  width: 20%;
+  margin-left: 42%;
+}
+.plan {
+  background-color: #ff764e;
+  display: inline-block;
+  text-align: center;
+}
+
+.learn {
+  background-color: #5ed3eb;
+  display: inline-block;
+  text-align: center;
+}
+.involved {
+  background-color: #ffcd69;
+  display: inline-block;
+  text-align: center;
+}
+
+}
+.footer {
+    background-color: #F9E7DC;
+}
+.footerimg {
+  height: 400px;
+  width: 100%;
+  object-position: top;
+  object-fit: cover;
+}
